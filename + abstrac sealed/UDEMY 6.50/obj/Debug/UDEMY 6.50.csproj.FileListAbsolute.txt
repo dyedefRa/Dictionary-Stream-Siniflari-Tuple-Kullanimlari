@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\UDEMY 6.50\UDEMY 6.50\bin\Debug\UDEMY 6.50.exe.config
+C:\Users\Asus\source\repos\UDEMY 6.50\UDEMY 6.50\bin\Debug\UDEMY 6.50.exe
+C:\Users\Asus\source\repos\UDEMY 6.50\UDEMY 6.50\bin\Debug\UDEMY 6.50.pdb
+C:\Users\Asus\source\repos\UDEMY 6.50\UDEMY 6.50\obj\Debug\UDEMY 6.50.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\UDEMY 6.50\UDEMY 6.50\obj\Debug\UDEMY_6._50.Form1.resources
+C:\Users\Asus\source\repos\UDEMY 6.50\UDEMY 6.50\obj\Debug\UDEMY_6._50.Properties.Resources.resources
+C:\Users\Asus\source\repos\UDEMY 6.50\UDEMY 6.50\obj\Debug\UDEMY 6.50.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\UDEMY 6.50\UDEMY 6.50\obj\Debug\UDEMY 6.50.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\UDEMY 6.50\UDEMY 6.50\obj\Debug\UDEMY 6.50.exe
+C:\Users\Asus\source\repos\UDEMY 6.50\UDEMY 6.50\obj\Debug\UDEMY 6.50.pdb
